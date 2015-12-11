@@ -1,0 +1,14 @@
+{
+  "name": "lightning-kicks",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./app/main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
+}
